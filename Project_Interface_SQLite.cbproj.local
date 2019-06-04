@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.951,=C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,=C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Choice.dfm=C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Choice.cpp=C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Choice.h=C:\Users\Андрей\Desktop\OOP_lesson_4.2-master\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
